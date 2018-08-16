@@ -1,0 +1,62 @@
+{
+  "name": "@whcg/whcg-css-structure-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@polymer/app-layout": "^3.0.0-pre.21",
+    "@polymer/app-route": "^3.0.0-pre.21",
+    "@polymer/iron-ajax": "^3.0.0-pre.21",
+    "@polymer/iron-pages": "^3.0.0-pre.21",
+    "@polymer/iron-selector": "^3.0.0-pre.21",
+    "@polymer/paper-button": "^3.0.0-pre.21",
+    "@vaadin/vaadin-button": "^2.1.0-beta2",
+    "@vaadin/vaadin-checkbox": "^2.2.0-beta2",
+    "@vaadin/vaadin-context-menu": "^4.1.0-beta2",
+    "@vaadin/vaadin-dialog": "^2.1.0-beta2",
+    "@vaadin/vaadin-dropdown-menu": "^1.1.0-beta2",
+    "@vaadin/vaadin-grid": "^5.1.0-beta2",
+    "@vaadin/vaadin-list-box": "^1.1.0-beta2",
+    "@vaadin/vaadin-radio-button": "^1.1.0-beta2",
+    "@vaadin/vaadin-tabs": "^2.1.0-beta2",
+    "@vaadin/vaadin-text-field": "^2.1.0-beta2",
+    "@webcomponents/webcomponentsjs": "^2.0.4",
+    "@whcg/whcg-app": "^1.0.0",
+    "@whcg/whcg-box-container": "^1.0.3",
+    "@whcg/whcg-button": "^1.0.0",
+    "@whcg/whcg-chart": "^1.0.3",
+    "@whcg/whcg-chart-feeder": "^1.0.2",
+    "@whcg/whcg-chip": "^1.0.2",
+    "@whcg/whcg-general-styles": "^1.0.0",
+    "@whcg/whcg-grid": "^1.0.2",
+    "@whcg/whcg-json-maker": "^1.0.0",
+    "@whcg/whcg-json-merger": "^1.0.2",
+    "@whcg/whcg-lit-text-field": "^1.0.15",
+    "@whcg/whcg-login-check": "^1.0.10",
+    "@whcg/whcg-login-fields": "^1.0.14",
+    "@whcg/whcg-multiplier": "^1.0.0",
+    "@whcg/whcg-number-field": "^1.0.9",
+    "@whcg/whcg-number-field-box": "^1.0.11",
+    "@whcg/whcg-period-amplifier": "^1.0.0",
+    "@whcg/whcg-period-compounder": "^1.0.2",
+    "@whcg/whcg-period-discounter": "^1.0.0",
+    "@whcg/whcg-period-summarizer": "^1.0.0",
+    "@whcg/whcg-search-box": "^1.0.0",
+    "@whcg/whcg-select": "^1.0.0",
+    "pouchdb": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whcgx/whcg-css-structure-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whcgx/whcg-css-structure-example/issues"
+  },
+  "homepage": "https://github.com/whcgx/whcg-css-structure-example#readme"
+}
